@@ -1,4 +1,0 @@
-#!/bin/bash
-pwd
-ls
-yum install -y httpd
